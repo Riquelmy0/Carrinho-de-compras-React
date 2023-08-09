@@ -1,0 +1,11 @@
+Esse é um projeto de como criar um carrinho de compras usando uma api do mercado livre;
+
+-podemos pesquisar o ítem;
+-adicionar o item ao carrinho de compras;
+-verificar quantos itens tem em nosso carrinho;
+-ver a soma total dos produtos;
+
+
+Este projeto tem por finalidade colocar em prática todos os conhecimentos adquirido na área de react js!
+
+Com esse projeto iremos consumir a api do mercado livre;--> '`https://api.mercadolibre.com/sites/MLB/search?q=${query}`'
